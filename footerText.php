@@ -1,0 +1,1 @@
+<?phpfunction displayFooterText(){echo "Copyright 2010-18 Sacred Heart St. Mary\n";}?>
