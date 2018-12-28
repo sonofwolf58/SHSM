@@ -25,7 +25,7 @@ echo "<li><a class=\"main_nav_item\" href=\"massschedule.php\">Mass Schedule</a>
 echo "<li><a class=\"main_nav_item\" href=\"history.php\">Parish History</a></li>\n";
 echo "<li><a class=\"main_nav_item\" href=\"ministry.php\">Parish Ministry</a></li>\n";
 echo "<li><a class=\"main_nav_item\" href=\"slideshows.php\">Slideshows</a></li>\n";
-echo "<li><a class=\"main_nav_item\" href=\"photos.php\">Photos</a></li>\n";
+echo "<li><a class=\"main_nav_item\" href=\"photo_links.php\">Photos</a></li>\n";
 echo "<li><a class=\"main_nav_item\" href=\"prayers.php\">Prayers</a></li>\n";
 echo "<li><a class=\"main_nav_item\" href=\"links.php\">Links</a></li>\n";
 echo "</ul>";
