@@ -27,6 +27,11 @@
         </style>
     </head>
     <body id="main_body" style="background-image: url('./images/background_image.jpg')">
+        
+        <?php include_once("./siteCommon.php");
+        // include the site common function file
+        ?>
+        
         <div id="container">
             <div id="header" style="left: 1px; top: 0px">
                 <div id="key_visual"></div>
@@ -37,7 +42,7 @@
             <div id="main_container">
                 <div id="left_column_container">
                     <div id="main_nav_container">
-                        <?php include_once("./selectbar.php");
+                        <?php
                         displaySelectBar();
                         ?>
                     </div>
@@ -144,7 +149,7 @@
 
             <div id="footer">
                 <div id="footer_text">
-                    <?php include_once("./footerText.php");
+                    <?php 
                     displayFooterText();
                     ?></div>
             </div>
