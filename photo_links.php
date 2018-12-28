@@ -122,6 +122,7 @@
 <a href="./photo_links.php?whichDir=D7">2016.10.23--RelEd.Retreat</a><br>
 <a href="./photo_links.php?whichDir=D8">2018.01.07--HolyFamily</a><br>
 <a href="./photo_links.php?whichDir=D9">ChurchPhotos</a><br>
+<a href="./photo_links.php?whichDir=D10">MiscPhotos-noDates</a>
 <hr
 
 <!-- just a spacer in the code -->
@@ -159,10 +160,13 @@ switch ($whichDir) {
         $showDir = './photos/2016.10.23--RelEd.Retreat';
         break;
     case "D8":
-        $showDir = './photos/2018.01.07--HolyFamily';
+        $showDir = './photos/2008.01.07--HolyFamily';
         break;
     case "D9":
         $showDir = './photos/ChurchPhotos';
+        break;
+    case "D10":
+        $showDir = './photos/MiscPhotos-noDates';
         break;
     default:
         $showDir = './photos';
