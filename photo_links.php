@@ -6,7 +6,7 @@
 	<meta content="Webmaster" name="author" />
 	<meta content="Sacred Heart - St Marys Roman Catholic Church" name="description" />
 	<meta content="no-cache" http-equiv="Cache-Control" />
-	<title>Announcements - Sacred Heart - St Marys</title>
+	<title>Photos - Sacred Heart - St Marys</title>
         <link rel="icon" href="./images/SHSM.ico">
 	<link href="main.css" media="all" rel="stylesheet" type="text/css" />
 	<link href="colorschemes/colorscheme7/colorscheme.css" media="all" rel="stylesheet" type="text/css" />
@@ -117,13 +117,14 @@
 
 <a href="./photo_links.php?whichDir=D1">2007-UnityMass</a><br>
 <a href="./photo_links.php?whichDir=D2">2008.04-Retreat</a><br>
-<a href="./photo_links.php?whichDir=D3">2008.06-catechistCertificationAwards</a><br>
-<a href="./photo_links.php?whichDir=D4">2008-ChurchFestival</a><br>
+<a href="./photo_links.php?whichDir=D3">2008.06-catechist Certification Awards</a><br>
+<a href="./photo_links.php?whichDir=D4">2008-Church Festival</a><br>
 <a href="./photo_links.php?whichDir=D5">2008-PreSchool</a><br>
 <a href="./photo_links.php?whichDir=D6">2008-SacredHeartSaintMary-Confirmation</a><br>
-<a href="./photo_links.php?whichDir=D8">2008.01.07--HolyFamily</a><br>
+<a href="./photo_links.php?whichDir=D8">2008.01.07--Holy Family</a><br>
 <a href="./photo_links.php?whichDir=D7">2016.10.23--RelEd.Retreat</a><br>
-<a href="./photo_links.php?whichDir=D9">ChurchPhotos</a><br>
+<a href="./photo_links.php?whichDir=D11">Celebration of Priesthood</a><br>
+<a href="./photo_links.php?whichDir=D9">Church Photos</a><br>
 
 <hr>
 
@@ -169,6 +170,9 @@ switch ($whichDir) {
         break;
     case "D10":
         $showDir = './photos/MiscPhotos-noDates';
+        break;
+    case "D11":
+        $showDir = './photos/CelebrationOfPriesthood';
         break;
     default:
         $showDir = './photos';
