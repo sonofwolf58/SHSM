@@ -10,7 +10,7 @@
 // -----------------------------------------------------------------------------
 
 function displayFooterText(){
-echo "Copyright 2010-18 Sacred Heart St. Mary\n";
+echo "Copyright 2010-19 Sacred Heart St. Mary\n";
 }
 
 function displaySelectBar(){
@@ -24,7 +24,7 @@ echo "<li><a class=\"main_nav_item\" href=\"massschedule.php\">Mass Schedule</a>
 //echo "<li><a class=\"main_nav_item\" href=\"frartspage.php\">Fr. Art&#39;s Page</a></li>";
 echo "<li><a class=\"main_nav_item\" href=\"history.php\">Parish History</a></li>\n";
 echo "<li><a class=\"main_nav_item\" href=\"ministry.php\">Parish Ministry</a></li>\n";
-echo "<li><a class=\"main_nav_item\" href=\"slideshows.php\">Slideshows</a></li>\n";
+//echo "<li><a class=\"main_nav_item\" href=\"slideshows.php\">Slideshows</a></li>\n";
 echo "<li><a class=\"main_nav_item\" href=\"photo_links.php\">Photos</a></li>\n";
 echo "<li><a class=\"main_nav_item\" href=\"prayers.php\">Prayers</a></li>\n";
 echo "<li><a class=\"main_nav_item\" href=\"links.php\">Links</a></li>\n";

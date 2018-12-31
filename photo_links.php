@@ -109,7 +109,9 @@
 <div class="auto-style1">
 
 <hr /><!-- Upcoming Events or Announcements -->
-<p align="center" class="auto-style18">*** Photos ***</p>
+<h3 align="center" class="auto-style18">*** Photos ***</h3>
+<h6 align="center" class="auto-style18">To save image= right click on image, then "save image as"</h6>
+<hr />
 
 <!-- temporary hard links until able to automate the directory parsing -->
 
@@ -119,8 +121,8 @@
 <a href="./photo_links.php?whichDir=D4">2008-ChurchFestival</a><br>
 <a href="./photo_links.php?whichDir=D5">2008-PreSchool</a><br>
 <a href="./photo_links.php?whichDir=D6">2008-SacredHeartSaintMary-Confirmation</a><br>
-<a href="./photo_links.php?whichDir=D7">2016.10.23--RelEd.Retreat</a><br>
 <a href="./photo_links.php?whichDir=D8">2008.01.07--HolyFamily</a><br>
+<a href="./photo_links.php?whichDir=D7">2016.10.23--RelEd.Retreat</a><br>
 <a href="./photo_links.php?whichDir=D9">ChurchPhotos</a><br>
 
 <hr>

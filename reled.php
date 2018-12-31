@@ -58,13 +58,13 @@
                             <hr />
                             <h1>Religious Education Calendar</h1>
                             <br />
-                            <a href="./reledCalendar.html">Click here for Religious Ed Calendar </a>
+                            <a href="./reledCalendar.php">Click here for Religious Ed Calendar </a>
                             <br />
                             <br />
                             <hr />
                             <h1>FORMS and Information</h1>
                             <br />
-                            <a href="./RelEdForms.html">Click here for Religious Education Forms and Information</a>
+                            <a href="./RelEdForms.php">Click here for Religious Education Forms and Information</a>
                             <br />
                             <br />
                             <hr />
@@ -79,7 +79,7 @@
 
                             <!-- This section is under development -->
                             <h1>Photos</h1>
-                            <a href="./images/ReligiousEdPhotos/RelEdPhotos.html">Click here for Religious Education Photos</a>
+                            <a href="./images/ReligiousEdPhotos/RelEdPhotos.php">Click here for Religious Education Photos</a>
                             <br />
                             <br />
                             <hr />
