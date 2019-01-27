@@ -128,6 +128,7 @@
 
 <hr>
 
+<h6 align="center" class="auto-style18">Photos wanted.<br />If you have church related photos, please forward to webmaster@sacredheart-sainmary.org</h6>
 <!-- just a spacer in the code -->
 <!-- php scripts here -->
 
